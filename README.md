@@ -3,7 +3,7 @@
 
 ## 🙋‍♂️ About Me
 
-🔭 I’m currently working at Vallourec, a French company focused on siderurdic producing
+🔭 I’m currently working at RHI Magnesita,
 
 :beginner: My knowledge includes HTML, CSS and SASS and my main development language is JavaScript
 
