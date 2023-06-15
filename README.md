@@ -3,9 +3,9 @@
 
 ## 🙋‍♂️ About Me
 
-🔭 I’m currently working at T-Systems as a Full Stack Developer,
+🔭 I’m currently working at Orbee as a Software Engineer,
 
-:beginner: My knowledge includes HTML, CSS, C and Java and my main development language is JavaScript
+:beginner: My knowledge includes HTML, CSS, Java, Vue, React, Angular and my main development language is JavaScript
 
 💖 I Love Open Source Projects
 
