@@ -1,11 +1,11 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rafael</h1>
-<h3 align="center"> I'm devoted to writing better front-end code every day</h3>
+<h3 align="center"> I'm devoted to writing better code every day</h3>
 
 ## 🙋‍♂️ About Me
 
-🔭 I’m currently working at Orbee as a Software Engineer,
+🔭 I’m currently working at Orbee as a Full-Stack Software Engineer,
 
-:beginner: My knowledge includes HTML, CSS, Java, Vue, React, Angular and my main development language is JavaScript
+:beginner: My knowledge includes HTML, CSS, Java, Vue, React, Angular, Go and my main development language is JavaScript
 
 💖 I Love Open Source Projects
 
