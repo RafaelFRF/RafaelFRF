@@ -3,15 +3,15 @@
 
 ## 🙋‍♂️ About Me
 
-🔭 I’m currently working at Orbee as a Full-Stack Software Engineer,
+🔭 I’m currently working as a Full-Stack Software Engineer,
 
-:beginner: My knowledge includes HTML, CSS, Java, Vue, React, Angular, Go and my main development language is JavaScript
+:beginner: My knowledge includes Vue, Node, React, Go, and my main development language is TypeScript
 
 💖 I Love Open Source Projects
 
 👨‍💻 Most of my projects are available at https://github.com/RafaelFRF
 
-📫 You can reach me at any time and know about my experiences at https://www.linkedin.com/in/rfrf/ 
+📫 You can reach me at any time and know about my experience at https://www.linkedin.com/in/rfrf/ 
 
 ## 🚀 Languages and Tools:
 
@@ -48,7 +48,7 @@
     <a href="https://github.com/RafaelFRF/github-readme-stats"><img alt="Rafael Fiorini's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RafaelFRF&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/RafaelFRF/github-readme-stats"><img alt="Rafael Fiorini's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelFRF&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <b>Note:</b> Top languages are only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
 <br/>
